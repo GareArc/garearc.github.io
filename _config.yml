@@ -107,6 +107,7 @@ theme: stellar
 deploy:
   type: git
   repo: https://github.com/GareArc/gareth.github.io.git
+  branch: gh-pages
 
 # Marked
 marked:
