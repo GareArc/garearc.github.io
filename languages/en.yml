@@ -1,0 +1,45 @@
+title:
+  archive: Archive
+  category: Category
+  tag: Tag
+  search: Search
+  not_found: This page is lost...
+  status: View status
+categories_list: Categories
+read_more: Continue reading
+read_full: Read full article
+search: Search
+search_notice: What are you looking for? o(*￣▽￣*)ブ
+search_submit: Let's find it~
+search_notice_page: This is the search engine of %s~
+search_notice_keys: Use spaces to separate multiple keywords, such as "%s";
+search_notice_tags: You can also try your luck with these tags~
+tag: Tag
+tagcloud: Tag cloud
+prev: Previous
+next: Next
+comment: Comment
+archive: Archive
+archive_count: There are %d articles in total (゜-゜)つロ Cheers~
+page: Page %d
+recent_posts: Recent posts
+newer: Previous
+older: Next
+share: Share
+rss_feed: RSS Feed
+category: Category
+category_in: In category
+copyright: All rights reserved
+author: Author
+read_count: '%s views'
+comments_count: '%s comments'
+last_modify: 'Last modified:'
+last_modify_alert: 'This article was last edited %s ago, and its content may need to be updated.'
+reward: Reward
+no_title: No title
+use_cc4_license: This work is licensed under a <a rel="license nofollow" target="_blank" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+toc: Table of contents
+words: Words
+post: Post
+tags_count: There are %d tags in total (゜-゜)つロ Cheers~
+categories_count: There are %d categories in total (゜-゜)つロ Cheers~
