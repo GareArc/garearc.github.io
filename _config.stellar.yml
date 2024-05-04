@@ -5,3 +5,5 @@ open_graph:
 article:
   type: tech # tech/story
   auto_cover: true
+
+  share: [wechat, weibo, email, link]
